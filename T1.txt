@@ -1,4 +1,5 @@
 #ARCHIVO 1
+<<<<<<< HEAD
 
 #Lineas de Agustin
 Linea1
@@ -6,3 +7,7 @@ Linea2
 Linea3
 Linea4
 Lines5
+=======
+#lINEA DE PRUEBA EN PUNTO7 LIRUSTA
+
+>>>>>>> 0aeaa7d1f4a015cfd49cb178f5a21a31224df73d
